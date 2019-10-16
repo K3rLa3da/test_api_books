@@ -1,0 +1,22 @@
+{
+  "name": "test_api",
+  "version": "1.0.0",
+  "description": "Test RESTful API for Volha to study  API Requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K3rLa3da/test_api_books.git"
+  },
+  "author": "Pasha Matus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K3rLa3da/test_api_books/issues"
+  },
+  "homepage": "https://github.com/K3rLa3da/test_api_books#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
